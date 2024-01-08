@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @newnils
 - 👀  I’m interested in e-commerce
-- 🌱  I’m currently learning web technologies @FH-Wedel
+- 🌱  I’m currently learning Nuxt 3 and trying to build a personal website
 - 📫  You can reach me on Twitter @nlllls
 
 <!---
